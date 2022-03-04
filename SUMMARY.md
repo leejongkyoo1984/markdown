@@ -2,7 +2,7 @@
 
 * [README](README.md)
 * [소개](introduction.md)
-  * [예제](introduction.md#예제)
+  * [예제](introduction.md#예제1)
 * [포맷팅](formatting.md)
 * [주석](commentary.md)
 * [명칭](names.md)
